@@ -10,6 +10,14 @@
     display: flex;
     align-items: center;
     gap: 8px;
+    position: relative;
+}
+
+.is_technology_icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 8px 16px;
 }
 
 .number_app {

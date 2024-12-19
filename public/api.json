@@ -11,6 +11,7 @@
       "code": "СКИ",
       "name": "Неисправность"
     },
+    "is_technology": true,
     "construction": {
       "name": "ТЦ червенский",
       "city": "г. Минск",
@@ -32,6 +33,7 @@
       "code": "БИДИ",
       "name": "Неисправность"
     },
+    "is_technology": false,
     "construction": {
       "name": "ТЦ червенский",
       "city": "г. Минск",
@@ -52,6 +54,7 @@
       "code": "ВУА",
       "name": "Неисправность"
     },
+    "is_technology": true,
     "construction": {
       "name": "ТЦ червенский",
       "city": "г. Минск",
@@ -73,6 +76,7 @@
       "code": "ПАПА",
       "name": "Неисправность"
     },
+    "is_technology": false,
     "construction": {
       "name": "ТЦ червенский",
       "city": "г. Минск",
