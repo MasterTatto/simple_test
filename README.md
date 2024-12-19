@@ -1,8 +1,29 @@
-# React + Vite
+# Тестовое
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Этот проект использует Vite и React для работы.
 
-Currently, two official plugins are available:
+## Запуск проекта
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Шаг 1, зависимости:
+
+```bash
+npm install
+```
+
+Шаг 2, запуск:
+
+```bash
+npm run dev
+```
+
+Шаг 3, открытие в браузере:
+
+```bash
+http://localhost:5173
+```
+Для изменения данных в JSON надо перейти по пути :
+
+```bash
+public/api.json
+```
+Псоле необходимо перезагрузить страницу для того , что бы выполнить повторный AXIOS запрос и обновить данные
